@@ -6,423 +6,424 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/For game/Scenes/other/Menu/Scens/Menu.unity
+    path: Assets/GameCore/Scenes/other/Menu/Scens/Menu.unity
     guid: f509dc46e4d9d9c45a1887a519957d40
   - enabled: 1
-    path: Assets/For game/Scenes/other/Menu/Scens/prehistory.unity
+    path: Assets/GameCore/Scenes/other/Menu/Scens/prehistory.unity
     guid: 8017b03ef26afa246a288806147664cd
   - enabled: 1
-    path: Assets/For game/Scenes/other/Chapter selection/Chapter selection.unity
+    path: Assets/GameCore/Scenes/other/Chapter selection/Chapter selection.unity
     guid: 4b2e16b886a917540bb21299441a8f05
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/inspect/Shalf close Key.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/inspect/Shalf close Key.unity
     guid: 962fd891059d75c4fafa5a106e6548fb
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/inspect/Shalf open Key.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/inspect/Shalf open Key.unity
     guid: 245cc30805fd0f041aa794080fd9a520
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/Ok/Ok1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/Ok/Ok1.unity
     guid: 173bdf742b790644a8e304e666611bd0
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/Room/Room Shalf close
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/Room/Room Shalf close
       Key.unity
     guid: 5b6872956704dfd41a8878aee6e9c010
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/Room/Room Shalf open
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/Room/Room Shalf open
       Key.unity
     guid: ebc5af2f2c25a7e41a548653a66a911f
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/Room/Room Shalf open
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/Room/Room Shalf open
       Key 1.unity
     guid: 542a534811bef1e4f806874c8e9475d9
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/V2/Bad1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/V2/Bad1.unity
     guid: 910b2976b6014c14b8479dbc54d90eeb
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/V2/Bad1 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/V2/Bad1 2.unity
     guid: 37ea4e128af8558458f3c75e1bbae0ab
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/V2/Bad1 3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/V2/Bad1 3.unity
     guid: 3a1642ad52e92e346a88000b2b763250
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/V2/Room1(V2).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/V2/Room1(V2).unity
     guid: 4a339c9e58e47be4fbf8815dd58d2fcc
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/V2/Room1(V2) 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/V2/Room1(V2) 1.unity
     guid: 412592bc3823fe7459b987d40ab8745a
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/V2/Room1(V2) 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/V2/Room1(V2) 2.unity
     guid: 152bdac113397e84e86bff052229e528
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1 1/11Ok2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1 1/11Ok2.unity
     guid: 257768d17d0270144aab4b7dff069df5
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1 1/11Ok3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1 1/11Ok3.unity
     guid: 9e2890f57b8d8c64f8cf4c00bfab93c7
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1 1/11Room1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1 1/11Room1.unity
     guid: 743f05d68679d3548baaed482ff158e0
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1 1/111Bed.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1 1/111Bed.unity
     guid: a9712ed2aee79af4b8d038fa8e70a00b
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1 1/111Box cloes4.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1 1/111Box cloes4.unity
     guid: 8763e369ef3bb364cadbede26ef6772b
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1 1/111Box open4.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1 1/111Box open4.unity
     guid: 448a52cf8662a364183d310fb137743b
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1 1/111Room4.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1 1/111Room4.unity
     guid: c469946459349d84ea070e6d77ccee9f
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1 1/111Room5 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1 1/111Room5 2.unity
     guid: e54d5b5c850962f45b1f1293650a8f39
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1 1/111Room6(3) 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1 1/111Room6(3) 2.unity
     guid: 4d3ebf15f22cac246b186651224426d9
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1 1/111Room6(3) 3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1 1/111Room6(3) 3.unity
     guid: e05a62bd18169f24096a41dd58e64418
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/Chapter 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/Chapter 1.unity
     guid: 734f61bfd2f669643880e1f03f756879
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Ok2/Ok2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Ok2/Ok2.unity
     guid: 5c4287e7dd3462f428b459a31a1b903e
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Ok2/Ok2(2).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Ok2/Ok2(2).unity
     guid: 2b06a13b0b55cc5479042d9ab2e1e69c
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Ok2/Ok2(2) 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Ok2/Ok2(2) 1.unity
     guid: 2f3afc8222b606f458988612cefbd886
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Ok2/Ok2(2) 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Ok2/Ok2(2) 2.unity
     guid: 7bf4aaf30be27214899a64af2194d4c6
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Ok2/Ok2(2) 3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Ok2/Ok2(2) 3.unity
     guid: 83e6cc6480a1c17409fa20565957e9d2
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Ok2/Ok2(2) 5.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Ok2/Ok2(2) 5.unity
     guid: ed364b264af3b9d4c900124bdf9053e3
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Scens/corridor after.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Scens/corridor after.unity
     guid: ed69149db842aa844949ffee31962f0d
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Scens/corridor after 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Scens/corridor after 1.unity
     guid: e450bc6f75115c945abf5108d69b5933
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Scens/corridor before.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Scens/corridor before.unity
     guid: 79a39baacd387d14191a08237f2154b1
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Scens/corridor before 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Scens/corridor before 1.unity
     guid: bbd88f54072eea84b8f04e1cdb6f5ec6
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Scens/scanner.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Scens/scanner.unity
     guid: 515257e571bf5c64197666989b08df43
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Scens/scanner 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Scens/scanner 1.unity
     guid: 09d6230ac7598ae4e92f7d7376813706
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Scens/scanner 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Scens/scanner 2.unity
     guid: 383ab7ba633143c40ae2bab860836ab7
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Ok/Ok3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Ok/Ok3.unity
     guid: 06b9cec502465dc4fbffbc679bd7f789
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Ok/Ok3 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Ok/Ok3 1.unity
     guid: 1e6eaeae34f54ad468c174cd938fb58a
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Ok/Ok3(2).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Ok/Ok3(2).unity
     guid: 386171e9d11b59d46bc121406ff45282
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Ok/Ok3(2) 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Ok/Ok3(2) 1.unity
     guid: f7e91af43386421438468181761ac0b4
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Ok/Ok3(2) 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Ok/Ok3(2) 2.unity
     guid: 11c1c6e844546324196d9a80fc8323b4
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Ok/Ok3(2) 3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Ok/Ok3(2) 3.unity
     guid: 0c6542e51e05b1140b3d639e0abf3812
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Ok/Ok3(2) 5.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Ok/Ok3(2) 5.unity
     guid: 380f1920cf6f4444f898b9897fd45ac8
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Scenes/Case3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Scenes/Case3.unity
     guid: 57a35e640d191584e99bb36047e43111
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Scenes/Clokc3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Scenes/Clokc3.unity
     guid: 839afd4a5ebcf6144b5fed836733c408
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Scenes/Clokc3 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Scenes/Clokc3 1.unity
     guid: bf4599c2ebfd0654b9fbd212d6aae042
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Scenes/minicase 3 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Scenes/minicase 3 2.unity
     guid: 15f43e22f41b988409e9ed8496c71367
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Scenes/minicase3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Scenes/minicase3.unity
     guid: 23eb4564a1c65c648b72fc41356833ec
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Scenes/Room2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Scenes/Room2.unity
     guid: e23d399afe7385b4589d6b91f86bbc6b
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Scenes/Room2 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Scenes/Room2 1.unity
     guid: d225931094158744390ded9d2b800162
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Box cloes4.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Box cloes4.unity
     guid: 33404afd5769ac949902b07a36e389e4
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Box open4.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Box open4.unity
     guid: 950844a68b67a7d41a6ac64463e064c5
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Room4.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Room4.unity
     guid: 1943a627e8f72ee40bd79cc760e1ad17
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Room4 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Room4 1.unity
     guid: f072c0c80a83f4140b98689a97f4c64d
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Room4 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Room4 2.unity
     guid: b49e617073c964941afa1946aae744e2
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Room4 3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Room4 3.unity
     guid: 0e35fcf5dfb11b3408e131b1ed756c0d
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Room4(2).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Room4(2).unity
     guid: b53510b64d8053c48980c8f692001edf
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Room4(2) 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Room4(2) 1.unity
     guid: 07e2b6b25bbea7c4eae42ace0d85fd4a
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Room4(2) 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Room4(2) 2.unity
     guid: 0dc889c480512cd43a401cd03f07bfaa
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Room4(2) 3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Room4(2) 3.unity
     guid: c6de4d10c01482447971bfc246140805
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Room4(2) 4.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Room4(2) 4.unity
     guid: 780371a4a3b651f41a3d20e72d663ea7
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Room4(2) 5.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Room4(2) 5.unity
     guid: a9432723a08a6ea479cc9fd4498dad55
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Room4(2) 6.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Room4(2) 6.unity
     guid: 4bd9948ede314b842a399137e71733c3
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Vase4.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Vase4.unity
     guid: 2cb2870b8eea51041928326780863414
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Vase4 open.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Vase4 open.unity
     guid: 5f7a7a420de01f447b43922bd4ef1d5a
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/5/Room5 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/5/Room5 1.unity
     guid: eeb3f979e591c8747a3cb52ca863cb07
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/5/Room5 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/5/Room5 2.unity
     guid: 9c17bc0deac86cb45b19f2664a70cec9
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/5/Room5 3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/5/Room5 3.unity
     guid: 90e7496810209b746bc24f46788608f5
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/5/Room5 4.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/5/Room5 4.unity
     guid: 92f4e16cd662d6c498edc47a6956bac6
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Ok/Dialog6(Ok).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Ok/Dialog6(Ok).unity
     guid: d097fc33d4013814e895431ed0246ed9
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/1/Dialog6.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/1/Dialog6.unity
     guid: 3177054f6a9f3a244806a6d705d71ae4
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/1/Dialog6 2(1).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/1/Dialog6 2(1).unity
     guid: c2949ee4b542c8f41b4bc7b32615d5e2
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/1/Dialog6 2(2).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/1/Dialog6 2(2).unity
     guid: 6bd3535c3fceb6147b9424a1f89d44be
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/1/Dialog6 3(1).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/1/Dialog6 3(1).unity
     guid: dc69bb8fe11c9a047bd88664fac3d743
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/1/Dialog6 3(2).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/1/Dialog6 3(2).unity
     guid: 12348fc4ab76610409da8e46f1be3239
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/1/Dialog6 3(3).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/1/Dialog6 3(3).unity
     guid: 7d20ecc2c139f404498a8de008cbf507
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6.unity
     guid: 1a72b4e4b0b869c4cbbc65e5285043e0
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 2(1).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 2(1).unity
     guid: 413bc4cc1c95546438896ffb01c75244
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 3(1).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 3(1).unity
     guid: c82cf9a5de4365c458ec4f4a7cac473f
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 3(1)
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 3(1)
       1.unity
     guid: e63175b3df9cae143ba3db98613eeddc
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 4(1).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 4(1).unity
     guid: 2b35ff8205f584540b62d538482383c0
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 4(1)
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 4(1)
       1.unity
     guid: ea93692d3e0368f47920ac89dd5a8116
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 5(1).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 5(1).unity
     guid: 80e869b06d595234ba0203ddb5f50af5
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 5(1)
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 5(1)
       1.unity
     guid: fdc3250d4937acf46a4f2ab8d0767e1c
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 5(1)
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Dialog/Scens/2/2Dialog6 5(1)
       3.unity
     guid: 3a3cbc9b1804703459247fd231076a24
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/Down1/1Down 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/Down1/1Down 1.unity
     guid: 1e264f308341dba4b90311fc30a01a9c
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/Down1/1Down 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/Down1/1Down 2.unity
     guid: 6779a8505c6dc25468675c3fe29a981f
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/Down1/1DownSkan.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/Down1/1DownSkan.unity
     guid: f59ffbb36a36b6c47b2c2d38f08c407c
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/Down1/1DownSkan 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/Down1/1DownSkan 1.unity
     guid: 2b37f80b76adaef4fbc4ddd7995ba8f3
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Room/Room6.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Room/Room6.unity
     guid: 5d2a9421622fa7841b1be6973300a860
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Room/Room6(2).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Room/Room6(2).unity
     guid: 93d9388af5b01874dbd3e13e5550e8ad
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Room/Room6(3).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Room/Room6(3).unity
     guid: 28109d0e805ab424ba81c88e396a186a
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/6/Room/Room6(3) 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/6/Room/Room6(3) 1.unity
     guid: 565c75c1bb379304c8964145c1fd7ebe
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/Chapter 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/Chapter 2.unity
     guid: 7718ef635837cc745b57806e18e4d0d1
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/4/scens/Room4(2) 7.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/4/scens/Room4(2) 7.unity
     guid: f358adaec49be9848a467c8388c18200
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/5/Room5 5.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/5/Room5 5.unity
     guid: d6e11d1ee29b3c2468a216e1b67bfeef
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/3/Ok/Ok3(2) 4.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/3/Ok/Ok3(2) 4.unity
     guid: 536cf8cf17f5c4e41845705f1a2dd5d4
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/2/Ok2/Ok2(2) 6.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/2/Ok2/Ok2(2) 6.unity
     guid: a01bb1211a8c4d14d9f8f45908d55661
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/V2/Room1(V2) 3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/V2/Room1(V2) 3.unity
     guid: 1efff9d97ecb66040add46d620f3ce1a
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 1/1/Scens/V2/Bad1 4.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 1/1/Scens/V2/Bad1 4.unity
     guid: 9ce0b7928e16c5f41845a3c572c59588
   - enabled: 1
-    path: Assets/For game/Scenes/other/Menu/Scens/znak vopros.unity
+    path: Assets/GameCore/Scenes/other/Menu/Scens/znak vopros.unity
     guid: a7c1ee64e36ae2343a64f70e806181ff
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Dialog/7Dialog.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Dialog/7Dialog.unity
     guid: 1c991ce941d2957418a73a0f25d86eb4
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Dialog/7Dialog1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Dialog/7Dialog1.unity
     guid: 1055da893f928ce4aacfd2d837ecaac6
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Dialog/7Dialog2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Dialog/7Dialog2.unity
     guid: c4e1c612318e08642bb2d036e90e504f
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Dialog/7Dialog2(2).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Dialog/7Dialog2(2).unity
     guid: 21e10d218f16882469f9d2cc992cb9b3
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Dialog/7Dialog3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Dialog/7Dialog3.unity
     guid: 1ef35693ad1ecb145a47880b61d9b306
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Dialog/7Dialog4.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Dialog/7Dialog4.unity
     guid: 9ab8fbd8533b4c74899e7d4301adb309
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Notebook/7Notebok 1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Notebook/7Notebok 1.unity
     guid: b2ce74578f0619d4aa6181dc9c086dd8
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Notebook/7Notebok 2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Notebook/7Notebok 2.unity
     guid: 2396475e5ff442d43b8ccd03a40889bb
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Notebook/7Notebok 3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Notebook/7Notebok 3.unity
     guid: b0e356193affbdf44963d7d9570ff25e
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Notebook/7Notebok 4.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Notebook/7Notebok 4.unity
     guid: 346daf119e153ed4296fdbacac684373
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Notebook/7Notebok 5.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Notebook/7Notebok 5.unity
     guid: 057ccd6f1e6e278439655419b1162a93
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Notebook/7Notebok 6.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Notebook/7Notebok 6.unity
     guid: d61be847e34ba5547a273cbe7e74f2f4
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Notebook/7Notebok 7.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Notebook/7Notebok 7.unity
     guid: daf43aae25d76004d8af534814e9832e
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/Notebook/7Notebok 8.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/Notebook/7Notebok 8.unity
     guid: 262723197f7123047a7b0923b9b5997d
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/room/7 Police(1).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/room/7 Police(1).unity
     guid: 5842dfbff4d43ba46b91fcbb4515822d
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/room/7 Police(2).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/room/7 Police(2).unity
     guid: 316d7de43f6f9b6468dffd66dee85916
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/7/room/7Notebok.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/7/room/7Notebok.unity
     guid: b8ff04de2e348c84e85bf1f7b099803b
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/8/Dialog/Dialog8(1).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/8/Dialog/Dialog8(1).unity
     guid: cfead427e412ebd44a2bcf6ea82699ea
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/8/Dialog/Dialog8(2).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/8/Dialog/Dialog8(2).unity
     guid: 6895bfbf918b22e439759a83e97620e0
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/8/Dialog/Dialog8(3).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/8/Dialog/Dialog8(3).unity
     guid: 95c22d2fe7347194086747f014dbbb06
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/8/Dialog/Dialog8(4).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/8/Dialog/Dialog8(4).unity
     guid: e69be5c8f90eb2b4bb9d2cc363489252
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/8/Dialog/Dialog8(5).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/8/Dialog/Dialog8(5).unity
     guid: d20791545ebee0a408d7131b4bf45532
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/8/Dialog/Dialog8(6).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/8/Dialog/Dialog8(6).unity
     guid: 8285d3e72a820b3429d88c5e6f358a00
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/8/Dialog/Dialog8(7).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/8/Dialog/Dialog8(7).unity
     guid: 91ba03074cfc4e148a2db84f0f5a5b36
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/8/Dialog/Dialog8(8).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/8/Dialog/Dialog8(8).unity
     guid: a108a47a40b3b7b4dad672c79859bcb2
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/8/Playgraund(1).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/8/Playgraund(1).unity
     guid: 25d751e96adf3c54e9d3a447fb640f79
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/8/Playgraund(2).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/8/Playgraund(2).unity
     guid: 1ef2649153d1a004faa53e4432c4241f
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/8/Playgraund(3).unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/8/Playgraund(3).unity
     guid: 9f138be275684ed4dacf695313b6b4d8
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/9/9Car1.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/9/9Car1.unity
     guid: 4098adf4f5c819f47be30b6b08dab0b2
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/9/9Car2.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/9/9Car2.unity
     guid: 93073d7132b495e4e833c22f24cc8760
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 2/9/9Car3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 2/9/9Car3.unity
     guid: 04dc3d15b176f734aa3fe7343f6b1c67
   - enabled: 1
-    path: Assets/For game/Scenes/playing/Chapters 3/Chapter 3.unity
+    path: Assets/GameCore/Scenes/playing/Chapters 3/Chapter 3.unity
     guid: 491ad4e370e523843a1d3fb4d64bb629
   - enabled: 1
-    path: Assets/For game/Scenes/The and.unity
+    path: Assets/GameCore/Scenes/The and.unity
     guid: d6b057eb5c8e1434891883eac46d1e7c
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 89a6787c85f482a4a9b21eb8d7479537, type: 2}
     com.unity.localization.settings: {fileID: 11400000, guid: 8aa056e0d4d4ed7459c20b2a8e0d57af, type: 2}
+  m_UseUCBPForAssetBundles: 0
